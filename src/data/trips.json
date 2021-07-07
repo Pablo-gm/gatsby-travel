@@ -1,0 +1,26 @@
+[
+    {
+        "img": "../assets/images/travel-1.jpg",
+        "alt": "Rome",
+        "name": "Rome",
+        "button": "View Destination"
+    },
+    {
+        "img": "../assets/images/travel-2.jpg",
+        "alt": "Greece",
+        "name": "Greece",
+        "button": "View Destination"
+    },
+    {
+        "img": "../assets/images/travel-3.jpg",
+        "alt": "Barcelona",
+        "name": "Barcelona",
+        "button": "View Destination"
+    },
+    {
+        "img": "../assets/images/travel-4.jpg",
+        "alt": "Egypt",
+        "name": "Egypt",
+        "button": "View Destination"
+    }
+]
