@@ -44,7 +44,7 @@ const Testimonials = () => {
                 </ColumnOne>
                 <ColumnTwo>
                     {data.allFile.edges.map((image, key) => {
-                        return <TestimonialImg key={key} image={image.node.childImageSharp.gatsbyImageData} alt={"testimonial ${key}"} />
+                        return <TestimonialImg key={key} image={image.node.childImageSharp.gatsbyImageData} alt={`testimonial ${key}`} />
                     })}
                 </ColumnTwo>
             </ContentWrapper>
